@@ -1,3 +1,4 @@
 #pragma once
 
 #define AUTO_SHIFT_TIMEOUT 140
+#define CAPS_WORD_INVERT_ON_SHIFT
